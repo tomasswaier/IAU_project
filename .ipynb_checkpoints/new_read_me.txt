@@ -4,3 +4,4 @@ Povedal by som zatiaľ ohľdom E toto: Niektoré variables sú závislé od iný
 'geolocation of the device' + 'youtube connections'. Ohľadom závislosti 'mwra', vyzerá byť ovplyvnené 'chrome connections'; 'external storage procesmi' a ďaľšími ako je vidno v notebooku.
 
 Povedal by som že je vysoko podstatné lepšie vyčistenie dát pred pokračovaním, asi sme tým aj mali začať XD.
+Tento file by sa mohol upravovať/premazávať pri každom novom checkpointe.
