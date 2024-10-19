@@ -1,10 +1,7 @@
 # IAU_project
-Hiya. budem sem dávať updaty lebo toto sa rovno zobrazí na github stránke .
 
-
-Začal som teda tú 1.2. ale pridávam veci aj do 1.1 ako napr teraz sú tam heatmapy a presunul som pár buniek inam . V heatmapách môžeš vidieť teraz oveľa lepšie kde presne tam sú korelácie (napr c.katan má mwra 0.59 a tak isto aj v processes sú tam vysoké korelácie) a stanovil by som na pevno dôležité attributy na 'p.android.gm','p.android.settings','p.system','p.android.externalstorage','p.android.documentsui' a v df_connections c.dogalize','c.android.youtube','c.katana','c.android.gm','c.android.chrome' kvôli tým heatmapám . Taktiež bolo viac krát spomenuté na fiit discorde že df_profiles je useless a má tam moc veľa null values takže budem z neho droppovať par columns .
-
+Pridal som sekciu 1.3, dodal pár variables do 1.1 D a Spravil 1.1 E. Určite by sa s tým dalo ešte troška pohrať aby to bolo krajšie a menej zbytočnosí ale do odovzdania je to OK si myslím.
 
 
 
-todo : pridanie komentarov ( to mozme aj v nedelu spolu ) . 1.1.E : ak sa ti chce tak to urob ak nie tak tam niečo napíšem ja. O heatmapách čo som pridal sa dá hovoriť na pár riadkov + e3te nejaké random mambo jambo takže to je asi jedno
+todo : pridanie komentarov (Sú tam zatiaľ odo mňa veľmi jednoducho resp. vôbec, v kľude mi napíš či tam chceš v nedeľu nejaké lepšie pridať spolu, alebo či mám nejaké k mojej časti ešte hodiť ja) . 1.1.E : niečo som tam vložil, potom sa na to pozri a rozhodni sa či tam niečo chceš pridávať ešte podľa 1.1 A & B
