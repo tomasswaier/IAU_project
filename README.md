@@ -30,3 +30,11 @@ def display_boxplot(y,title,):
 display_boxplot('c.dogalize','Box Plot of c.dogalize vs mwra')
 
 a toto by si iba zavolal X krát na každú premennú čo potrebuješ porovnať s mwra namiesto manuálneho písania Y variables X krát
+
+
+Hej ako sa pracuje s cells tak som úplne zabudol na funkcie xd
+output je sformulovaný takto:
+if p_value > 0.05:
+        print('Same distributions: H0')
+    else:
+        print('Different distributions: reject H0')
